@@ -30,7 +30,15 @@
     "trailingComma": "es5"
   },
   "name": "kiss-circuit-breaker",
-  "author": "Matias Lopez",
+  "author": {
+    "name": "Matias Lopez",
+    "email": "matychp@gmail.com",
+    "url": "https://www.linkedin.com/in/matychp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matychp/kiss-circuit-breaker"
+  },
   "module": "dist/kiss-circuit-breaker.esm.js",
   "devDependencies": {
     "axios": "^0.19.2",
